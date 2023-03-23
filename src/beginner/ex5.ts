@@ -6,4 +6,8 @@ import axios from 'axios';
 
 // your code here...
 
-// (async () => getRandomJokes(5).then(console.log))()
+export async function runBeginnerEx5() {
+  console.log(`Starting exercise 5 from category Beginner`);
+  // (async () => getRandomJokes(5).then(console.log))()
+  console.log(`Finished exercise 5 from category Beginner`);
+}

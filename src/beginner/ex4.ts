@@ -11,7 +11,11 @@ const ex4test4 = [
   (elem: unknown): boolean => typeof elem === 'object' && !!elem && Object.keys(elem).includes('ab'),
 ];
 
-// console.log(myFilter(ex4test1[0], ex4test1[1]));
-// console.log(myFilter(ex4test2[0], ex4test1[2]));
-// console.log(myFilter(ex4test3[0], ex4test1[3]));
-// console.log(myFilter(ex4test4[0], ex4test1[4]));
+export function runBeginnerEx4() {
+  console.log(`Starting exercise 4 from category Beginner`);
+  // console.log(myFilter(ex4test1[0], ex4test1[1]));
+  // console.log(myFilter(ex4test2[0], ex4test1[2]));
+  // console.log(myFilter(ex4test3[0], ex4test1[3]));
+  // console.log(myFilter(ex4test4[0], ex4test1[4]));
+  console.log(`Finished exercise 4 from category Beginner`);
+}
