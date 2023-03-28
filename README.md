@@ -47,3 +47,12 @@ An exported function that runs and prints the output from your function. When yo
 ## Documentation and Learning materials
 
 In each category you will find a `README.md` file which will contain documentation, learning materials, links to relevant articles or explications and examples.
+
+Useful links:
+
+- [James Sinclair](https://jrsinclair.com/web-development/)
+- [Functional Light JS](https://github.com/getify/Functional-Light-JS)
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- [Functional Programming in 40 Minutes • Russ Olsen • GOTO 2018](https://www.youtube.com/watch?v=0if71HOyVjY)
+- [Purifying Typescript - Timothy Clifford](https://www.youtube.com/watch?v=huIHUim76AM)
+- [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
