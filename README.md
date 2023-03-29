@@ -8,6 +8,7 @@ In folder `src` the exercises will be grouped by category:
 2. ~~medium~~
 3. ~~advanced~~
 4. ~~monads~~
+5. refactoring
 
 ## Getting started
 
